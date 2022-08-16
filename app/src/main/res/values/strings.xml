@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Exam</string>
+
+    <string name="location_permission_error">Video replay functionality will not work without location access.</string>
+    <string name="fine_location_permission_error">Video replay functionality will not work without accurate location access.</string>
+    <string name="location_settings_error">Location settings on your device are not satisfying the needs of this app. Video replay functionality will not work.</string>
+    <string name="gyroscope_error">Something is wrong with your gyroscope. Seeking video and volume control will not work.</string>
+    <string name="accelerometer_error">Something is wrong with your accelerometer. Video pause by shaking will not work.</string>
+    <string name="unknown_error">Something went wrong and some of the functionality may work not properly.</string>
+    <string name="ok">OK</string>
+
+</resources>
